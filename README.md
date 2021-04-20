@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on flick.id
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about android development
 
